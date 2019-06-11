@@ -305,9 +305,6 @@ MIT
 @ionic/angular
 MIT
 
-@angular/router
-MIT
-
 @ionic/storage
 MIT
 The MIT License (MIT)
@@ -365,6 +362,9 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
+
+@angular/router
+MIT
 
 @ionic-native/splash-screen
 MIT
